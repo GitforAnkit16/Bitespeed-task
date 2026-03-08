@@ -247,4 +247,10 @@ Ankit Panda
 GitHub:
 https://github.com/GitforAnkit16
 
----
+Snapshots showcasing the expected output:
+---<img width="997" height="605" alt="Screenshot 2026-03-08 at 6 20 50 PM" src="https://github.com/user-attachments/assets/ec8d222b-54c1-479f-806b-6f25c312699a" />
+<img width="974" height="605" alt="Screenshot 2026-03-08 at 6 20 35 PM" src="https://github.com/user-attachments/assets/b1fd0acd-9a60-49ca-8ca1-2b03ab558194" />
+<img width="1005" height="618" alt="Screenshot 2026-03-08 at 6 20 04 PM" src="https://github.com/user-attachments/assets/758450d7-4a8f-4f88-8c97-9f32163fc9b4" />
+<img width="989" height="608" alt="Screenshot 2026-03-08 at 6 19 26 PM" src="https://github.com/user-attachments/assets/f8f1980a-f5b7-4989-8e88-097b1a7b9076" />
+<img width="1002" height="584" alt="Screenshot 2026-03-08 at 6 18 55 PM" src="https://github.com/user-attachments/assets/8fae6d3f-fa60-451a-8db0-463ec5392c8f" />
+
